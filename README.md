@@ -12,3 +12,6 @@ https://github.com/RestComm/jain-sip/tree/master/src/examples/simplecallsetup
 
 
 https://github.com/RestComm/jain-sip/blob/master/src/examples/ims/Shootist.java
+
+
+https://developer.rhino.metaswitch.com/devportal/devportal/apis/jainsip/1.1/docs/index.html
